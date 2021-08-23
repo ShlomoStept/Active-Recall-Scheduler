@@ -20,8 +20,8 @@
 
 
 #### Notes: 
-> the Active-Recall_Scheduler.jar file should be placed inside another folder, 
-> since the first time it is opened it will create the database files and folders inside whatever directory .jar is inside
+> The Active-Recall_Scheduler.jar file should be placed inside another folder, 
+>  since the first time it is opened it will create the database files and folders inside whatever directory .jar is inside
 
 
 
