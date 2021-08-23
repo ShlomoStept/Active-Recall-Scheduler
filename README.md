@@ -2,7 +2,7 @@
 
 ### _The best spaced repition scheduling tool_
 
-[![Build Status](https://github.com/ShlomoStept/Active-Recall-Scheduler/blob/main/.github/workflows/gradle-publish.yml/badge.svg?)] 
+<!-- ([![Build Status](https://github.com/ShlomoStept/Active-Recall-Scheduler/blob/main/.github/workflows/gradle-publish.yml/badge.svg?)] ) -->
 
 ##### Active Recall Scheduler is a desktop-based, scheduler that Tracks and Schedules spaced repetition study sessions for specific subjects (or subject question sheets) based on the original learning date entered.
 
