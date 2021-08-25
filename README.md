@@ -9,7 +9,8 @@
 - On the original learning date:  ––>  Enter the subject you learned 
 - Then Based upon a spaced repetition schedule of 1, 4, 11 , and 23 days,  ––>  The application will notify you of the subject you should study
 
-
+## Screenshot
+![Overview](https://github.com/ShlomoStept/Active-Recall-Scheduler/blob/main/Images/activerecall.png)
 
 ## Features
 
@@ -46,7 +47,7 @@ Download the .jar file, place it within a folder and then run
 ```sh
 mkdir active_recall_app
 cd active_recall_app
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ShlomoStept/Active-Recall-Scheduler/tree/main/Working%20Application/Active-Recall%20Scheduler 
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ShlomoStept/Active-Recall-Scheduler/tree/main/Working%20Application/Active%20Recall%20Scheduler
 (––  use the link  above to download, then unzip and place the Active-Recall_Scheduler.jar file in active_recall_app folder  ––)
 java -jar Active-Recall_Scheduler.jar
 ```
